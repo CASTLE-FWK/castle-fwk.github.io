@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Complex Adaptive System modeling, simulation, and analysis: together at last.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: LachBirdsey
+github_username:  CASTLE-FWK
 
 # Build settings
 markdown: kramdown
