@@ -5,5 +5,3 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 # Build settings
 theme: jekyll-theme-midnight
-baseurl: /castle-fwk.github.io
-exclude: ['README.md']
