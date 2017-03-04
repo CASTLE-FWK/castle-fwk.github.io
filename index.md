@@ -2,6 +2,8 @@
 layout: default
 ---
 
+The rest of this site will be done soon.
+
 [CASTLE Blog](blog)
 
 [Main CASTLE Project](https://github.com/CASTLE-FWK)
