@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CASTLE Framework
 email: lachlan.birdsey@adelaide.edu.au
+author: Lachlan Birdsey
 description: > # this means to ignore newlines until "baseurl:"
   Complex Adaptive System modeling, simulation, and analysis: together at last.
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,3 +29,4 @@ theme: jekyll-theme-midnight
 
 #nfi
 permalink: /blog/:year/:month/:day/:title
+site.github.repository_url: github.com/CASTLE-FWK
