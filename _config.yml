@@ -29,4 +29,4 @@ theme: jekyll-theme-midnight
 
 #nfi
 permalink: /blog/:year/:month/:day/:title
-site.github.repository_url: github.com/CASTLE-FWK
+github.repository_url: github.com/CASTLE-FWK
