@@ -22,6 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://www.castle-framework.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LachBirdsey
 github_username:  CASTLE-FWK
+main_repo_url: https://github.com/CASTLE-FWK
 
 # Build settings
 markdown: kramdown
@@ -29,4 +30,3 @@ theme: jekyll-theme-midnight
 
 #nfi
 permalink: /blog/:year/:month/:day/:title
-github.repository_url: github.com/CASTLE-FWK
