@@ -8,4 +8,4 @@ layout: default
 
 [CASTLE Documentation (Hosted on ReadTheDocs)](https://docs.castle-framework.io/)
 
-[CASTLE Documentation (PDF)](https://docs.castle-framework.io/downloads/pdf/latest/)
+[CASTLE Documentation (PDF)](https://readthedocs.org/projects/castle-documentation/downloads/pdf/latest/)
