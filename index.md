@@ -1,8 +1,21 @@
 ---
 layout: default
+published: true
 ---
 
-The rest of this site will be done soon.
+CASTLE and the Complex Adaptive Systems Language (CASL) were created by Lachlan Birdsey as part of his PhD work at the University of Adelaide, Australia. 
+
+The CASTLE framework consists of several components: the CASL modeler, the generator, a simulator, and an analysis tool. There are also hooks to connect simulations to a MongoDB instance.
+
+-The CASL modeler allows you to create CAS models inside Eclipse
+-The generator generates code for use with the current CASTLE simulator
+-The simulator currently being used by CASTLE is [Repast](https://repast.github.io/)
+-The analysis tool consists of several metrics for analysing CAS simulations, but easily allows for new metrics to be added, including connecting to existing analysis tools. The analysis tool can also be used to process existing information from a previous simulation execution.
+
+
+## Useful Links:
+
+[Papers on CAS, CASL, or CASTLE](publications)
 
 [CASTLE Blog](blog)
 
