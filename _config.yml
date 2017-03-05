@@ -15,12 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: CASTLE Framework
 email: lachlan.birdsey@adelaide.edu.au
+author: Lachlan Birdsey
 description: > # this means to ignore newlines until "baseurl:"
-  Complex Adaptive System modeling, simulation, and analysis: together at last.
+  Complex Adaptive System modeling, simulation, and analysis: together at last!
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.castle-framework.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LachBirdsey
 github_username:  CASTLE-FWK
+main_repo_url: https://github.com/CASTLE-FWK
 
 # Build settings
 markdown: kramdown
