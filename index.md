@@ -16,9 +16,10 @@ The CASTLE framework consists of several components: the CASL modeler, the gener
 
 #### CASL Eclipse Plugin now available. [Get it here!](https://github.com/CASTLE-FWK/CASTLE)
 Remainder of CASTLE Framework will be available soon.
-Version: Barad-dûr
 
-## Useful Links:
+Current Version: [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr)
+
+##Links:
 
 [CASTLE Blog](blog)
 
@@ -30,4 +31,4 @@ Version: Barad-dûr
 
 [CASTLE Documentation (PDF)](https://readthedocs.org/projects/castle-documentation/downloads/pdf/latest/)
 
-[Papers on CAS, CASL, or CASTLE](publications)
+[Publications using CASL or CASTLE](publications)
