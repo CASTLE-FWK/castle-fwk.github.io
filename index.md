@@ -5,7 +5,8 @@ published: true
 
 ## Introduction
 
-**Note: CASTLE is currently not in a deployable state. Apologies**
+CASL Eclipse Plugin now available. [Get it here!](https://github.com/CASTLE-FWK/CASTLE)
+Remainder of CASTLE Framework will be available soon.
 
 CASTLE and the Complex Adaptive Systems Language (CASL) were created by [Lachlan Birdsey](https://www.adelaide.edu.au/directory/lachlan.birdsey) as part of his PhD work at the University of Adelaide, Australia. 
 
