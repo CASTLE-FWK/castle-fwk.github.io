@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## CASTLE (and Lachlan) go to AAMAS 2017 in São Paulo, Brazil!
 
