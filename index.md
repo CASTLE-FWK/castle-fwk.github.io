@@ -25,7 +25,7 @@ Current Version: [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr)
 
 [CDIT-Complex Systems Blog](http://blogs.adelaide.edu.au/cdit/category/research/complex-systems/)
 
-[Main CASTLE GitHub](https://github.com/CASTLE-FWK)
+[CASTLE GitHub](https://github.com/CASTLE-FWK)
 
 [CASTLE Documentation (Hosted on ReadTheDocs)](https://docs.castle-framework.io/)
 
