@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: CASTLE (and Lachlan) go to AAMAS 2017 in São Paulo, Brazil!
 ---
 ## CASTLE (and Lachlan) go to AAMAS 2017 in São Paulo, Brazil!
 
