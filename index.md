@@ -2,12 +2,6 @@
 layout: default
 published: true
 ---
-
-## Introduction
-
-CASL Eclipse Plugin now available. [Get it here!](https://github.com/CASTLE-FWK/CASTLE)
-Remainder of CASTLE Framework will be available soon.
-
 CASTLE and the Complex Adaptive Systems Language (CASL) were created by [Lachlan Birdsey](https://www.adelaide.edu.au/directory/lachlan.birdsey) as part of his PhD work at the University of Adelaide, Australia. 
 
 The CASTLE framework consists of several components: the CASL modeler, the generator, a simulator, and an analysis tool. There are also hooks to connect simulations to a MongoDB instance.
@@ -20,6 +14,8 @@ The CASTLE framework consists of several components: the CASL modeler, the gener
 
 * The analysis tool consists of several metrics for analysing CAS simulations, but easily allows for new metrics to be added, including connecting to existing analysis tools. The analysis tool can also be used to process existing information from a previous simulation execution.
 
+#### CASL Eclipse Plugin now available. [Get it here!](https://github.com/CASTLE-FWK/CASTLE)
+Remainder of CASTLE Framework will be available soon.
 
 ## Useful Links:
 
