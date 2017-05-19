@@ -19,7 +19,7 @@ Remainder of CASTLE Framework will be available soon.
 
 Current Version: [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr)
 
-##Links:
+## Links:
 
 [CASTLE Blog](blog)
 
