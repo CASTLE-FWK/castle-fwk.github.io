@@ -14,8 +14,8 @@ The CASTLE framework consists of several components: the CASL modeler, the gener
 
 * The analysis tool consists of several metrics for analysing CAS simulations, but easily allows for new metrics to be added, including connecting to existing analysis tools. The analysis tool can also be used to process existing information from a previous simulation execution.
 
-## Current Version: Barad-dûr
-
+## CASTLE & CASL
+Current Version: Barad-dûr
 CASL Eclipse Plugin & CASTLE Java Library available. [Get them here!](https://github.com/CASTLE-FWK/CASTLE)
 
 
