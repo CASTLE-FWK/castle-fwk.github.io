@@ -4,7 +4,7 @@ published: true
 ---
 CASTLE and the Complex Adaptive Systems Language (CASL) were created by [Lachlan Birdsey](https://www.adelaide.edu.au/directory/lachlan.birdsey) as part of his PhD work at the University of Adelaide, Australia. 
 
-#Warning 20/08/2017: Current version of CASL & CASTLE is undergoing significant overhauls and bugfixes, and is currently highly unstable & bugger.
+#Warning 20/08/2017: Current version of CASL & CASTLE is undergoing significant overhauls and bugfixes, and is currently highly unstable & buggy. Contact Lachlan (lachlandotbirdseyatadelaidedotedudotau) with queries.
 
 The CASTLE framework consists of several components: the CASL modeler, the generator, a simulator, and an analysis tool. There are also hooks to connect simulations to a MongoDB instance.
 
